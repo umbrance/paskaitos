@@ -1,0 +1,14 @@
+C:\Projects\dotnet\paskaitos\paskaita4\bin\Debug\net8.0\paskaita4.exe
+C:\Projects\dotnet\paskaitos\paskaita4\bin\Debug\net8.0\paskaita4.deps.json
+C:\Projects\dotnet\paskaitos\paskaita4\bin\Debug\net8.0\paskaita4.runtimeconfig.json
+C:\Projects\dotnet\paskaitos\paskaita4\bin\Debug\net8.0\paskaita4.dll
+C:\Projects\dotnet\paskaitos\paskaita4\bin\Debug\net8.0\paskaita4.pdb
+C:\Projects\dotnet\paskaitos\paskaita4\obj\Debug\net8.0\paskaita4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dotnet\paskaitos\paskaita4\obj\Debug\net8.0\paskaita4.AssemblyInfoInputs.cache
+C:\Projects\dotnet\paskaitos\paskaita4\obj\Debug\net8.0\paskaita4.AssemblyInfo.cs
+C:\Projects\dotnet\paskaitos\paskaita4\obj\Debug\net8.0\paskaita4.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\paskaitos\paskaita4\obj\Debug\net8.0\paskaita4.dll
+C:\Projects\dotnet\paskaitos\paskaita4\obj\Debug\net8.0\refint\paskaita4.dll
+C:\Projects\dotnet\paskaitos\paskaita4\obj\Debug\net8.0\paskaita4.pdb
+C:\Projects\dotnet\paskaitos\paskaita4\obj\Debug\net8.0\paskaita4.genruntimeconfig.cache
+C:\Projects\dotnet\paskaitos\paskaita4\obj\Debug\net8.0\ref\paskaita4.dll

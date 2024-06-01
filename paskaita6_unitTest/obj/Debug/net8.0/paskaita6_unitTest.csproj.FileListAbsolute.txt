@@ -1,0 +1,6 @@
+C:\Projects\dotnet\paskaitos\paskaita6_unitTest\bin\Debug\net8.0\CoverletSourceRootsMapping_paskaita6_unitTest
+C:\Projects\dotnet\paskaitos\paskaita6_unitTest\obj\Debug\net8.0\paskaita6_unitTest.csproj.AssemblyReference.cache
+C:\Projects\dotnet\paskaitos\paskaita6_unitTest\obj\Debug\net8.0\paskaita6_unitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dotnet\paskaitos\paskaita6_unitTest\obj\Debug\net8.0\paskaita6_unitTest.AssemblyInfoInputs.cache
+C:\Projects\dotnet\paskaitos\paskaita6_unitTest\obj\Debug\net8.0\paskaita6_unitTest.AssemblyInfo.cs
+C:\Projects\dotnet\paskaitos\paskaita6_unitTest\obj\Debug\net8.0\paskaita6_unitTest.csproj.CoreCompileInputs.cache

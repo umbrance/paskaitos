@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\dotnet\\paskaitos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654507AF-D84C-4C2D-8E02-4CA0D02A3E4A}|paskaita7\\paskaita7.csproj|c:\\projects\\dotnet\\paskaitos\\paskaita7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654507AF-D84C-4C2D-8E02-4CA0D02A3E4A}|paskaita7\\paskaita7.csproj|solutionrelative:paskaita7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09F1BB-3115-4F61-A650-C31F74FBA647}|paskaita6\\paskaita6.csproj|c:\\projects\\dotnet\\paskaitos\\paskaita6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09F1BB-3115-4F61-A650-C31F74FBA647}|paskaita6\\paskaita6.csproj|solutionrelative:paskaita6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48975D0C-35BA-4EF3-B28D-0132F88E8152}|paskaita6Tests1\\paskaita6Tests1.csproj|c:\\projects\\dotnet\\paskaitos\\paskaita6tests1\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48975D0C-35BA-4EF3-B28D-0132F88E8152}|paskaita6Tests1\\paskaita6Tests1.csproj|solutionrelative:paskaita6tests1\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F63FD8-D9C3-4042-840A-9A67E1D28733}|paskaita2Tests\\paskaita2Tests.csproj|c:\\projects\\dotnet\\paskaitos\\paskaita2tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F63FD8-D9C3-4042-840A-9A67E1D28733}|paskaita2Tests\\paskaita2Tests.csproj|solutionrelative:paskaita2tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1449253A-54A9-41DD-9397-3FDCB51F3860}|paskaita2\\paskaita2.csproj|c:\\projects\\dotnet\\paskaitos\\paskaita2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1449253A-54A9-41DD-9397-3FDCB51F3860}|paskaita2\\paskaita2.csproj|solutionrelative:paskaita2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67DAC62-E54A-406B-88D3-7519F4F40A14}|paskaita5\\paskaita5.csproj|c:\\projects\\dotnet\\paskaitos\\paskaita5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67DAC62-E54A-406B-88D3-7519F4F40A14}|paskaita5\\paskaita5.csproj|solutionrelative:paskaita5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1162FC0E-C073-4F03-85AB-532EE6E761D7}|paskaita4\\paskaita4.csproj|c:\\projects\\dotnet\\paskaitos\\paskaita4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1162FC0E-C073-4F03-85AB-532EE6E761D7}|paskaita4\\paskaita4.csproj|solutionrelative:paskaita4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\paskaitos\\paskaita7\\Program.cs",
+              "RelativeDocumentMoniker": "paskaita7\\Program.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\paskaitos\\paskaita7\\Program.cs",
+              "RelativeToolTip": "paskaita7\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:31:10.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIQUAAAAAAAAAAAowJUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-30T15:25:48.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\paskaitos\\paskaita2Tests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "paskaita2Tests\\ProgramTests.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\paskaitos\\paskaita2Tests\\ProgramTests.cs",
+              "RelativeToolTip": "paskaita2Tests\\ProgramTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:23:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\paskaitos\\paskaita6Tests1\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "paskaita6Tests1\\ProgramTests.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\paskaitos\\paskaita6Tests1\\ProgramTests.cs",
+              "RelativeToolTip": "paskaita6Tests1\\ProgramTests.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:04:04.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\paskaitos\\paskaita2\\Program.cs",
+              "RelativeDocumentMoniker": "paskaita2\\Program.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\paskaitos\\paskaita2\\Program.cs",
+              "RelativeToolTip": "paskaita2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:52:00.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\paskaitos\\paskaita6\\Program.cs",
+              "RelativeDocumentMoniker": "paskaita6\\Program.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\paskaitos\\paskaita6\\Program.cs",
+              "RelativeToolTip": "paskaita6\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:56:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\paskaitos\\paskaita5\\Program.cs",
+              "RelativeDocumentMoniker": "paskaita5\\Program.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\paskaitos\\paskaita5\\Program.cs",
+              "RelativeToolTip": "paskaita5\\Program.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAgwLgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:28:11.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\paskaitos\\paskaita4\\Program.cs",
+              "RelativeDocumentMoniker": "paskaita4\\Program.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\paskaitos\\paskaita4\\Program.cs",
+              "RelativeToolTip": "paskaita4\\Program.cs",
+              "ViewState": "AQIAAFMBAAAAAAAAAAAAADABAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:01:15.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

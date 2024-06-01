@@ -1,0 +1,14 @@
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\bin\Debug\net8.0\atskirasNUnit_NamuDarbas.exe
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\bin\Debug\net8.0\atskirasNUnit_NamuDarbas.deps.json
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\bin\Debug\net8.0\atskirasNUnit_NamuDarbas.runtimeconfig.json
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\bin\Debug\net8.0\atskirasNUnit_NamuDarbas.dll
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\bin\Debug\net8.0\atskirasNUnit_NamuDarbas.pdb
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\obj\Debug\net8.0\atskirasNUnit_NamuDarbas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\obj\Debug\net8.0\atskirasNUnit_NamuDarbas.AssemblyInfoInputs.cache
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\obj\Debug\net8.0\atskirasNUnit_NamuDarbas.AssemblyInfo.cs
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\obj\Debug\net8.0\atskirasNUnit_NamuDarbas.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\obj\Debug\net8.0\atskirasNUnit_NamuDarbas.dll
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\obj\Debug\net8.0\refint\atskirasNUnit_NamuDarbas.dll
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\obj\Debug\net8.0\atskirasNUnit_NamuDarbas.pdb
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\obj\Debug\net8.0\atskirasNUnit_NamuDarbas.genruntimeconfig.cache
+C:\Projects\dotnet\paskaitos\atskirasNUnit_NamuDarbas\obj\Debug\net8.0\ref\atskirasNUnit_NamuDarbas.dll
